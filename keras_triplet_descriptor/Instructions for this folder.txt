@@ -1,0 +1,2 @@
+1) Every notebook contains code to download the latest keras_triplet_descriptor.zip file.
+2) The contents of this .zip file can be unzipped in this folder
